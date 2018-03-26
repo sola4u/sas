@@ -1,4 +1,5 @@
 population.xlsx:
+
 group|male|female
 -|-|-|
 0|x|x|
@@ -12,6 +13,7 @@ group|male|female
 85|x|x|
 
 table_ttl.csv table_male.csv table_female.csv
+
 disease|g0|g1|g5|g10|g15|...|g85|
 -|-|-|
 一、传染病与寄生虫病小计|
