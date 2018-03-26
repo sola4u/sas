@@ -34,4 +34,4 @@ icd|code1|code2|code3
 A00|感染性疾病与母婴疾病|传染病寄生虫病|某些传染病和寄生虫病
 ...|
 
-baidu百度云盘：https://pan.baidu.com/s/1vq4G7s8vpzHczknl8wxk3g password:symz
+百度云盘模版: https://pan.baidu.com/s/1vq4G7S8vpzHczknI8wxk3g 密码: symz
